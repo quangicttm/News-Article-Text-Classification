@@ -17,5 +17,12 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
-    install_requires=['matplotlib', 'seaborn', 'feedparser', 'pandas', 'sklearn', 'numpy', 'newspaper3k', 'pathlib'],
+    install_requires=['matplotlib', 
+                      'seaborn', 
+                      'feedparser', 
+                      'pandas', 
+                      'scikit-learn', 
+                      'numpy', 
+                      'newspaper3k', 
+                      'pathlib'],
 )
