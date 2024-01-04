@@ -6,6 +6,8 @@ This model was created with the help of Susan Li, [who wrote this article](https
 ## Installation 
 ```shell
 python -m pip install git+https://github.com/user1342/News-Article-Text-Classification.git
+or
+pip install git+https://github.com/quangicttm/News-Article-Text-Classification.git
 ```
 
 ## Usage 
